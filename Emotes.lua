@@ -7860,7 +7860,8 @@ TwitchEmotes_emoticons = {
 	["eburdreal"] = "eburdreal",
 	["eburdrealW"] = "eburdrealW",
 	["kacka"] = "kacka", 
-	["kackaW"] = "kackaW", 
+	["kackaW"] = "kackaW",
+	["Test1"] = "Test1",
 };
 
 TwitchEmotes_ExcludedSuggestions = {
