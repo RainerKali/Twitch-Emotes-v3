@@ -3675,6 +3675,12 @@ TwitchEmotes_defaultpack = {
 	["kackaW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\kacka.tga:128:128",
 	["donnie"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\donnie.tga:28:28",
 	["donnieW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\donnie.tga:128:128",
+	["wideduppi"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\wideduppi.tga:32:224",
+	["adi"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\adi.tga:28:28",
+	["adiW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\adi.tga:128:128",
+	["adikawaii"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\adikawaii.tga:28:28",
+	["adikawaiiW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\adikawaii.tga:128:128",
+	
 	
 };
 
@@ -7866,6 +7872,12 @@ TwitchEmotes_emoticons = {
 	["kackaW"] = "kackaW", 
 	["donnie"] = "donnie",
 	["donnieW"] = "donnieW",
+	["wideduppi"] = "wideduppi",
+	["adi"] = "adi",
+	["adiW"] = "adiW",
+	["adikawaii"] = "adikawaii",
+	["adikawaiiW"] = "adikawaiiW",
+
 };
 
 TwitchEmotes_ExcludedSuggestions = {
