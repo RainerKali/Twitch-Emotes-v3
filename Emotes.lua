@@ -1854,7 +1854,9 @@ TwitchEmotes_defaultpack = {
 	["rwzitternW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\rwzittern.tga:128:128",
 	["n33dGamba"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\n33dGamba.tga:128:128",
 	["n33dKiwi"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\n33dKiwi.tga:28:28",
-	["n33dKiwiW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\n33dKiwi.tga:128:128"
+	["n33dKiwiW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\n33dKiwi.tga:128:128",
+	["auracodex"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\auracodex.tga:28:28",
+	["auracodexW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\auracodex.tga:128:128",
 
 };
 
@@ -4136,6 +4138,8 @@ TwitchEmotes_emoticons = {
 	["n33dGamba"] = "n33dGamba",
 	["n33dKiwi"] = "n33dKiwi",
 	["n33dKiwiW"] = "n33dKiwiW",
+	["auracodex"] = "auracodex",
+	["auracodexW"] = "auracodexW",
 	
 
 };
