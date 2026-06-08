@@ -1,4 +1,5 @@
 TwitchEmotes_defaultpack = {
+<<<<<<< HEAD
 	-- AdmiralBulldog
 	["admiral1"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\AdmiralBulldog\\admiral1.tga:28:28",
 	["admiral2"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\AdmiralBulldog\\admiral2.tga:28:28",
@@ -226,6 +227,9 @@ TwitchEmotes_defaultpack = {
 	["mizkifWC"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Mizkif\\mizkifWC.tga:28:28",
 	["mizkifWeird"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Mizkif\\mizkifWeird.tga:28:28",
 	["mizkifY"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Mizkif\\mizkifY.tga:28:28",
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Asmongold
 	["asmon1"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Asmongold\\asmon1.tga:28:28",
 	["asmon2"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Asmongold\\asmon2.tga:28:28",
@@ -272,6 +276,7 @@ TwitchEmotes_defaultpack = {
 	["asmonWHATR"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Asmongold\\asmonWHATR.tga:28:28",
 	["asmonWOW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Asmongold\\asmonWOW.tga:28:28",
 	["asmonBoi"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Asmongold\\asmonBoi.tga:28:28",
+<<<<<<< HEAD
 	-- AvoidingThePuddle
 	["atpChar"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\AvoidingThePuddle\\atpChar.tga:28:28",
 	["atpCop"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\AvoidingThePuddle\\atpCop.tga:28:28",
@@ -383,6 +388,9 @@ TwitchEmotes_defaultpack = {
 	["bobrossTap"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BobRoss\\bobrossTap.tga:28:28",
 	["bobrossTree"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BobRoss\\bobrossTree.tga:28:28",
 	["bobrossVHS"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BobRoss\\bobrossVHS.tga:28:28",
+=======
+	
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- BTTV+FFZ
 	["D:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BTTV+FFZ\\emDface.tga:28:28",
 	["4HEad"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BTTV+FFZ\\4HEad.tga:28:28",
@@ -436,6 +444,7 @@ TwitchEmotes_defaultpack = {
 	["PotFriend"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BTTV+FFZ\\PotFriend.tga:28:28",
 	["NotLike"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BTTV+FFZ\\NotLike.tga:28:28",
 	["LULE"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\BTTV+FFZ\\LULE.tga:28:28",
+<<<<<<< HEAD
 	-- C9Sneaky
 	["sneakyBoost"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\C9Sneaky\\sneakyBoost.tga:28:28",
 	["sneakyBug"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\C9Sneaky\\sneakyBug.tga:28:28",
@@ -617,6 +626,9 @@ TwitchEmotes_defaultpack = {
 	["esfandAre"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\EsfandTV\\esfandAre.tga:28:28",
 	["esfandDead"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\EsfandTV\\esfandDead.tga:28:28",
 	["peepoNoButter"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\EsfandTV\\peepoNoButter.tga:28:28",
+=======
+	
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Custom
 	["thinkioning"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\thinkioning.tga:28:28",
 	["JohnU"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\JohnU.tga:28:28",
@@ -718,7 +730,11 @@ TwitchEmotes_defaultpack = {
 	["cmonHabibi"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\cmonHabibi.tga:28:28",
 	["YoshiBlush"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\YoshiBlush.tga:28:28",
 	["gachiSLAP"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\gachiSLAP.tga:28:28",
+<<<<<<< HEAD
 	["gachiSLAPW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\gachiSLAP.tga:LARGE",
+=======
+	["gachiSLAPW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\gachiSLAP.tga:128:128",
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	["LockStone"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\LockStone.tga:28:28",
 	["KomodoHype"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\KomodoHype.tga:28:28",
 	["HiveDiver"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\HiveDiver.tga:28:28",
@@ -883,6 +899,7 @@ TwitchEmotes_defaultpack = {
 	[":queen:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\queen.tga:28:28",
 	["LeoHug"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\LeoHug.tga:28:28",
 	[":waiting:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\waiting.tga:28:28",
+<<<<<<< HEAD
 	-- DansGaming -- Outdated
 	["dan7"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\DansGaming\\dan7.tga:28:28",
 	["dan10"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\DansGaming\\dan10.tga:28:28",
@@ -1001,6 +1018,9 @@ TwitchEmotes_defaultpack = {
 	["duckTenTen"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Ducksauce\\duckTenTen.tga:28:56",
 	["duckTrain"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Ducksauce\\duckTrain.tga:28:28",
 	["duckZIN"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Ducksauce\\duckZIN.tga:28:28",
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Emojis
 	[":blush:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Emoji\\emBlush.tga:28:28",
 	[":door:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Emoji\\emDoor.tga:28:28",
@@ -1099,6 +1119,7 @@ TwitchEmotes_defaultpack = {
 	[":f:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Emoji\\emF.tga:28:28",
 	[":turtle_cry:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Emoji\\emTurtleCry.tga:28:28",
 	[":mouse_trap:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Emoji\\emMouseTrap.tga:28:28",
+<<<<<<< HEAD
 	-- FinalBossTV
 	["finalBAYCHA"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\FinalBossTV\\finalBAYCHA.tga:28:28",
 	["finalCLAP"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\FinalBossTV\\finalCLAP.tga:28:28",
@@ -1121,6 +1142,8 @@ TwitchEmotes_defaultpack = {
 	["finalRIGHT"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\FinalBossTV\\finalRIGHT.tga:28:28",
 	["finalSULF"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\FinalBossTV\\finalSULF.tga:28:28",
 	["finalTONE"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\FinalBossTV\\finalTONE.tga:28:28",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Forsenlol
 	["forsen1"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Forsenlol\\forsen1.tga:28:28",
 	["forsen2"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Forsenlol\\forsen2.tga:28:28",
@@ -1226,6 +1249,7 @@ TwitchEmotes_defaultpack = {
 	["PogChimp"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Forsenlol\\PogChimp.tga:28:28",
 	["forsenDespair"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Forsenlol\\forsenDespair.tga:28:28",
 	["forsenLookingAtYou"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Forsenlol\\forsenLookingAtYou.tga:28:28",
+<<<<<<< HEAD
 	-- fragNance
 	["fraggy1"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\fragNance\\fraggy1.tga:28:28",
 	["fraggy2"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\fragNance\\fraggy2.tga:28:28",
@@ -1392,6 +1416,9 @@ TwitchEmotes_defaultpack = {
 	["qtpWAVE"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\imaqtpie\\qtpWAVE.tga:28:28",
 	["qtpWEEB"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\imaqtpie\\qtpWEEB.tga:28:28",
 	["qtpWHAT"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\imaqtpie\\qtpWHAT.tga:28:28",
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- JoshOG
 	["weed1"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\JoshOG\\weed1.tga:28:28",
 	["weed2"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\JoshOG\\weed2.tga:28:28",
@@ -1503,6 +1530,7 @@ TwitchEmotes_defaultpack = {
 	["TheBoys"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Suze\\TheBoys.tga:28:28",
 	["coffeeS"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Suze\\CoffeeS.tga:28:32",
 	["beenocs"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Suze\\beenocs.tga:28:28",
+<<<<<<< HEAD
 	-- LegendaryLea
 	["lea8"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\LegendaryLea\\lea8.tga:28:28",
 	["leaA"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\LegendaryLea\\leaA.tga:28:28",
@@ -1810,6 +1838,9 @@ TwitchEmotes_defaultpack = {
 	["krippWall"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\nl_Kripp\\krippWall.tga:28:28",
 	["krippWTF"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\nl_Kripp\\krippWTF.tga:28:28",
 	["krippX"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\nl_Kripp\\krippX.tga:28:28",
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Pepes
 	["EZ"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\EZ.tga:28:28",
 	["FeelsAmazingMan"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\FeelsAmazingMan.tga:28:28",
@@ -2421,6 +2452,7 @@ TwitchEmotes_defaultpack = {
 	["dejj"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\dejj.tga:28:28",
 	["PepeBald"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\PepeBald.tga:28:28",
 	["peepofeet"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\peepofeet.tga:28:28",
+<<<<<<< HEAD
 	-- PsheroTV
 	["heroBT"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\PsheroTV\\heroBT.tga:28:28",
 	["heroFEELS"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\PsheroTV\\heroFEELS.tga:28:28",
@@ -2677,6 +2709,9 @@ TwitchEmotes_defaultpack = {
 	[":booty:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GNeko\\emBooty.tga:28:28",
 	[":HEH:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GNeko\\aniHEH.tga:28:28",
 	["Keqing"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GNeko\\zxKeqing.tga:28:28",
+=======
+	
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- xQc
 	["xqcPlot"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\xQc\\xqcM.tga:28:28",
 	["xqcRage"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\xQc\\xqcRage.tga:28:28",
@@ -2730,6 +2765,7 @@ TwitchEmotes_defaultpack = {
 	["xqcTOS"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\xQc\\xqcTOS.tga:28:28",
 	["xqcTree"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\xQc\\xqcTree.tga:28:28",
 	["xqcWar"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\xQc\\xqcWar.tga:28:28",
+<<<<<<< HEAD
 	-- OG Feedback
 	["Snakers"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\OG_Feedback\\Snakers.tga:28:28",
 	["SkoopRage"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\OG_Feedback\\SkoopRage.tga:28:28",
@@ -2747,6 +2783,9 @@ TwitchEmotes_defaultpack = {
 	["BatriSam"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\OG_Feedback\\BatriSam.tga:28:28",
 	["BaileysDude"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\OG_Feedback\\BaileysDude.tga:28:28",
 	["GorillaPump"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\OG_Feedback\\GorillaPump.tga:28:28",
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Guild emotes
 	["Pog"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GuildEmotes\\Pog.tga:28:28",
 	["jerryWhat"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GuildEmotes\\jerryWhat.tga:28:28",
@@ -2974,6 +3013,7 @@ TwitchEmotes_defaultpack = {
 	["PantsGrab"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GuildEmotes\\PantsGrab.tga:28:28",
 	["deadgemines"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GuildEmotes\\deadgemines.tga:28:28",
 	["Fradre"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\GuildEmotes\\Fradre.tga:28:28",
+<<<<<<< HEAD
 	-- ShaBooZey
 	["sbzyAGAIN"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\ShaBooZey\\sbzyAGAIN.tga:28:28",
 	["sbzyAloydeal"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\ShaBooZey\\sbzyAloydeal.tga:28:28",
@@ -3253,6 +3293,9 @@ TwitchEmotes_defaultpack = {
 	["tpWhite"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchPresents\\tpWhite.tga:28:28",
 	["tpYellow"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchPresents\\tpYellow.tga:28:28",
 	["tpZedd"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchPresents\\tpZedd.tga:28:28",
+=======
+	
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- TwitchTV
 	["4Head"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\4Head.tga:28:28",
 	["ANELE"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\ANELE.tga:28:28",
@@ -3462,6 +3505,7 @@ TwitchEmotes_defaultpack = {
 	["RHeart"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\RobotHeart.tga:15,20",
 	[":tf:"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\trollface.tga:28:28",
 	["YeahBoi"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\YeahBoi.tga:28:28",
+<<<<<<< HEAD
 	-- AdmiralBahroo
 	["rooAww"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\AdmiralBahroo\\rooAww.tga:28:28",
 	["rooBlank"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\AdmiralBahroo\\rooBlank.tga:28:28",
@@ -3543,6 +3587,9 @@ TwitchEmotes_defaultpack = {
 	["drxKEK"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Drainerx\\drxKEK.tga:28:28",
 	["drxLewd"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Drainerx\\drxLewd.tga:28:28",
 	["drxThink"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Drainerx\\drxThink.tga:28:28",
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Greekgodx
 	["greekA"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Greekgodx\\greekA.tga:28:28",
 	["greekBrow"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Greekgodx\\greekBrow.tga:28:28",
@@ -3570,6 +3617,7 @@ TwitchEmotes_defaultpack = {
 	["greekWhy"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Greekgodx\\greekWhy.tga:28:28",
 	["greekWtf"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Greekgodx\\greekWtf.tga:28:28",
 	["greekYikes"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Greekgodx\\greekYikes.tga:28:28",
+<<<<<<< HEAD
 	-- Vinesauce
 	["vineAlien"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Vinesauce\\vineAlien.tga:28:28",
 	["vineBab"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Vinesauce\\vineBab.tga:28:28",
@@ -3653,6 +3701,8 @@ TwitchEmotes_defaultpack = {
 	["typegYIP"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\typeg\\typegYIP.tga:28:28",
 	["typegChill"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\typeg\\typegChill.tga:28:28",
 	["typegBricked"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\typeg\\typegBricked.tga:28:28",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	
 	-- n33d
 	["joyngun"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\joyngun.tga:28:28",
@@ -3695,6 +3745,10 @@ TwitchEmotes_defaultpack = {
 	["n33dKiwiW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\n33dKiwi.tga:128:128",
 	["auracodex"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\auracodex.tga:28:28",
 	["auracodexW"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\n33d\\auracodex.tga:128:128",
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 };
 
 TwitchEmotes_animation_metadata = {
@@ -3730,8 +3784,11 @@ TwitchEmotes_animation_metadata = {
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\CatPop.tga"] = {["nFrames"] = 2, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=64, ["framerate"] = 10},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\CatDance.tga"] = {["nFrames"] = 8, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=256, ["framerate"] = 12},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\FeelsLoveMan.tga"] = {["nFrames"] = 12, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=512, ["framerate"] = 10},
+<<<<<<< HEAD
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\AdmiralBahroo\\rooMadSlam.tga"] = {["nFrames"] = 11, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=512, ["framerate"] = 14},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\AdmiralBahroo\\rooRave.tga"] = {["nFrames"] = 25, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=1024, ["framerate"] = 24},
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\worryStick.tga"] = {["nFrames"] = 12, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=512, ["framerate"] = 40},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\PepeJAM.tga"] = {["nFrames"] = 4, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=128, ["framerate"] = 14},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\peepoSmash.tga"] = {["nFrames"] = 8, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=256, ["framerate"] = 12},
@@ -3799,8 +3856,11 @@ TwitchEmotes_animation_metadata = {
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\HACKERMANS.tga"] = {["nFrames"] = 11, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=512, ["framerate"] = 15},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\peepoComfy.tga"] = {["nFrames"] = 6, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=256, ["framerate"] = 15},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Pepes\\SALAMI.tga"] = {["nFrames"] = 10, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=512, ["framerate"] = 15},
+<<<<<<< HEAD
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\typeg\\typegLoad.tga"] = {["nFrames"] = 8, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=256, ["framerate"] = 15},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\typeg\\typegPaul.tga"] = {["nFrames"] = 10, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=512, ["framerate"] = 15},["Interface\\AddOns\\TwitchEmotes\\Emotes\\typeg\\hyperjoy.tga"] = {["nFrames"] = 9, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=512, ["framerate"] = 15},
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\Kekflap.tga"] = {["nFrames"] = 2, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=64, ["framerate"] = 15},["Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\Awoken.tga"] = {["nFrames"] = 38, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=2048, ["framerate"] = 15},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\ChipiChipi.tga"] = {["nFrames"] = 24, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=1024, ["framerate"] = 25},
 	["Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\alert.tga"] = {["nFrames"] = 17, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=1024, ["framerate"] = 40},
@@ -3813,6 +3873,7 @@ TwitchEmotes_animation_metadata = {
 }
 
 TwitchEmotes_emoticons = {
+<<<<<<< HEAD
 	-- AdmiralBulldog
 	["admiral1"] = "admiral1",
 	["admiral2"] = "admiral2",
@@ -4043,6 +4104,8 @@ TwitchEmotes_emoticons = {
 	["ceelia"] = "WeirdChamp",
 	["Ceelía"] = "tpBulk",
 	["ceelía"] = "tpBulk",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Asmongold
 	["asmon1"] = "asmon1",
 	["asmon2"] = "asmon2",
@@ -4090,6 +4153,7 @@ TwitchEmotes_emoticons = {
 	["asmonWOW"] = "asmonWOW",
 	["asmonBoi"] = "asmonBoi",
 	["asmonBoy"] = "asmonBoi",
+<<<<<<< HEAD
 	-- AvoidingThePuddle
 	["Voxee"] = "WeirdW",
 	["voxee"] = "WeirdW",
@@ -4203,6 +4267,8 @@ TwitchEmotes_emoticons = {
 	["bobrossTap"] = "bobrossTap",
 	["bobrossTree"] = "bobrossTree",
 	["bobrossVHS"] = "bobrossVHS",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- BTTV+FFZ
 	["D:"] = "D:",
 	["4HEad"] = "4HEad",
@@ -4257,6 +4323,7 @@ TwitchEmotes_emoticons = {
 	["PotFriend"] = "PotFriend",
 	["NotLike"] = "NotLike",
 	["LULE"] = "LULE",
+<<<<<<< HEAD
 	-- C9Sneaky
 	["sneakyBoost"] = "sneakyBoost",
 	["sneakyBug"] = "sneakyBug",
@@ -4438,6 +4505,8 @@ TwitchEmotes_emoticons = {
 	["esfandAre"] = "esfandAre",
 	["esfandDead"] = "esfandDead",
 	["peepoNoButter"] = "peepoNoButter",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Custom
 	["thinkioning"] = "thinkioning",
 	["taureW"] = "taureW",
@@ -4733,6 +4802,7 @@ TwitchEmotes_emoticons = {
 	[":queen:"] = ":queen:",
 	["LeoHug"] = "LeoHug",
 	[":waiting:"] = ":waiting:",
+<<<<<<< HEAD
 	-- DansGaming
 	["dan7"] = "dan7",
 	["dan10"] = "dan10",
@@ -4851,6 +4921,8 @@ TwitchEmotes_emoticons = {
 	["duckTenTen"] = "duckTenTen",
 	["duckTrain"] = "duckTrain",
 	["duckZIN"] = "duckZIN",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Emojis
 	[":blush:"] = ":blush:",
 	[":monkey:"] = ":monkey:",
@@ -4961,6 +5033,7 @@ TwitchEmotes_emoticons = {
 	[":f:"] = ":f:",
 	[":turtle_cry:"] = ":turtle_cry:",
 	[":mouse_trap:"] = ":mouse_trap:",
+<<<<<<< HEAD
 	-- FinalBossTV
 	["finalBAYCHA"] = "finalBAYCHA",
 	["finalCLAP"] = "finalCLAP",
@@ -4983,6 +5056,8 @@ TwitchEmotes_emoticons = {
 	["finalRIGHT"] = "finalRIGHT",
 	["finalSULF"] = "finalSULF",
 	["finalTONE"] = "finalTONE",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Forsenlol
 	["forsen1"] = "forsen1",
 	["forsen2"] = "forsen2",
@@ -5090,6 +5165,7 @@ TwitchEmotes_emoticons = {
 	["PogChimp"] = "PogChimp",
 	["forsenLookingAtYou"] = "forsenLookingAtYou",
 	["forsenDespair"] = "forsenDespair",
+<<<<<<< HEAD
 	-- fragNance
 	["fraggy1"] = "fraggy1",
 	["fraggy2"] = "fraggy2",
@@ -5615,6 +5691,8 @@ TwitchEmotes_emoticons = {
 	["krippWall"] = "krippWall",
 	["krippWTF"] = "krippWTF",
 	["krippX"] = "krippX",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Pepes
 	["EZ"] = "EZ",
 	["FeelsRainMan"] = "FeelsRainMan",
@@ -6389,6 +6467,7 @@ TwitchEmotes_emoticons = {
 	["dejj"] = "dejj",
 	["PepeBald"] = "PepeBald",
 	["peepofeet"] = "peepofeet",
+<<<<<<< HEAD
 	-- PsheroTV
 	["heroBT"] = "heroBT",
 	["heroFEELS"] = "heroFEELS",
@@ -6405,6 +6484,9 @@ TwitchEmotes_emoticons = {
 	["heroSMART"] = "heroSMART",
 	["heroW"] = "heroW",
 	["heroZ"] = "heroZ",
+=======
+	
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- pepeOKLife
 	["CaptainSuze"] = "CaptainSuze",
 	["FeelsPandaMan"] = "FeelsPandaMan",
@@ -6508,6 +6590,7 @@ TwitchEmotes_emoticons = {
 	["coffeeS"] = "coffeeS",
 	["CoffeeS"] = "coffeeS",
 	["beenocs"] = "beenocs",
+<<<<<<< HEAD
 	-- Quin69
 	["quinBeam1"] = "quinBeam1",
 	["beamB"] = "beamB",
@@ -6755,6 +6838,8 @@ TwitchEmotes_emoticons = {
 	[":booty:"] = ":booty:",
 	[":HEH:"] = ":HEH:",
 	["Keqing"] = "Keqing",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- xQc
 	["xqcPlot"] = "xqcPlot",
 	["xqcM"] = "xqcPlot",
@@ -7143,6 +7228,7 @@ TwitchEmotes_emoticons = {
 	["PantsGrab"] = "PantsGrab",
 	["deadgemines"] = "deadgemines",
 	["Fradre"] = "Fradre",
+<<<<<<< HEAD
 	-- ShaBooZey
 	["sbzyAGAIN"] = "sbzyAGAIN",
 	["sbzyAloydeal"] = "sbzyAloydeal",
@@ -7445,6 +7531,8 @@ TwitchEmotes_emoticons = {
 	["tpWhite"] = "tpWhite",
 	["tpYellow"] = "tpYellow",
 	["tpZedd"] = "tpZedd",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- TwitchTV
 	["4Head"] = "4Head",
 	["AMPEnergy"] = "AMPEnergy",
@@ -7666,6 +7754,7 @@ TwitchEmotes_emoticons = {
 	["RHeart"] = "RHeart",
 	[":tf:"] = ":tf:",
 	["YeahBoi"] = "YeahBoi",
+<<<<<<< HEAD
 	-- Drainerx
 	["drxBrain"] = "drxBrain",
 	["drxCS"] = "drxCS",
@@ -7755,6 +7844,8 @@ TwitchEmotes_emoticons = {
 	["rooComfy"] = "rooComfy",
 	["rooMadSlam"] = "rooMadSlam",
 	["rooRave"] = "rooRave",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- Greekgodx
 	["greekA"] = "greekA",
 	["greekBrow"] = "greekBrow",
@@ -7782,6 +7873,7 @@ TwitchEmotes_emoticons = {
 	["greekWhy"] = "greekWhy",
 	["greekWtf"] = "greekWtf",
 	["greekYikes"] = "greekYikes",
+<<<<<<< HEAD
 	-- Vinesauce
 	["vineAlien"] = "vineAlien",
 	["vineBab"] = "vineBab",
@@ -7865,6 +7957,8 @@ TwitchEmotes_emoticons = {
 	["typegYIP"] = "typegYIP",
 	["typegChill"] = "typegChill",
 	["typegBricked"] = "typegBricked",
+=======
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 	-- n33d
 	["joyngun"] = "joyngun",
 	["joyngunW"] = "joyngunW",
@@ -7907,6 +8001,10 @@ TwitchEmotes_emoticons = {
 	["auracodex"] = "auracodex",
 	["auracodexW"] = "auracodexW",
 	
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6aa859d86662e4be7c81f4e92b1d42c724874773
 };
 
 TwitchEmotes_ExcludedSuggestions = {
